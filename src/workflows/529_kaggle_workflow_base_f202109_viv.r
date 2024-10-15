@@ -200,8 +200,8 @@ FEhist_base_2 <- function( pinputexps)
   param_local$Tendencias2$tendencia <- TRUE
   param_local$Tendencias2$minimo <- FALSE
   param_local$Tendencias2$maximo <- FALSE
-  param_local$Tendencias2$promedio <- TRUE
-  param_local$Tendencias2$ratioavg <- TRUE
+  param_local$Tendencias2$promedio <- FALSE
+  param_local$Tendencias2$ratioavg <- FALSE
   param_local$Tendencias2$ratiomax <- FALSE
   
   param_local$semilla <- NULL # no usa semilla, es deterministico
