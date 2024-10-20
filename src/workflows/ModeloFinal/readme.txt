@@ -14,7 +14,7 @@ Usar la semilla primogénita 999917
 2. Bajar los archivos resultantes de la corrida de cada script que contienen la predicción que se sube a Kaggle: expw_KA-XXXX_KA-XXXX_XX_XXX_sXXXXXX_XXXXX.csv  
 3. Ordenar por número de cliente cada archivo
 4. Consolidar en un excel los siete modelos
-5. Agregar las columnas para realizar la votación. Ver archivo excel en este repositorio
+5. Agregar las columnas para realizar la votación. Ver archivo excel votacion_ensamble.xlsx en este repositorio
 6. Crear archivo .csv con los resultados de la votación, con las columnas numero_de_cliente y Predicted
 7. Comprimir archivo
 8. Realizar submmit manual a Kaggle
