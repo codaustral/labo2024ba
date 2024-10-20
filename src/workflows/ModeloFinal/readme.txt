@@ -9,7 +9,6 @@ El modelo final es un ensamble de los siguientes modelos:
 7.	KA_0014 https://github.com/labo-imp/labo2024ba/commit/57795b1ba55e0e39d5e79c428b36feed29160c6a
 
 Pasos para replicar el resultado del modelo final:
-Usar la semilla primogénita 999917
 1. Ejecutar los 7 script
 2. Bajar los archivos resultantes de la corrida de cada script que contienen la predicción que se sube a Kaggle: expw_KA-XXXX_KA-XXXX_XX_XXX_sXXXXXX_XXXXX.csv  
 3. Ordenar por número de cliente cada archivo
