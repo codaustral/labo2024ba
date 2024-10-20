@@ -18,3 +18,4 @@ Pasos para replicar el resultado del modelo final:
 7. Comprimir archivo
 8. Realizar submmit manual a Kaggle
 
+Archivo enviado a Kaggle manualmente: KA-00ENSAMBLE_7
